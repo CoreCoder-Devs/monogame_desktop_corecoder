@@ -1,0 +1,7 @@
+{
+	"title":"MonoGame (Desktop Plugins)",
+	"version":"0.0.1",
+	"description":"A C# game framework based on XNA. https://www.monogame.net/ \n Make sure you have installed MGCB and .NET Framework correctly!",
+	"author":"Hanprogramer",
+	"identifier": "com.hanprogramer.monogamepluginsdesktop"
+}
